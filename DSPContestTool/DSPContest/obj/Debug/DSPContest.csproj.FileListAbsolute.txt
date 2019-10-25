@@ -1,0 +1,11 @@
+c:\users\ngocviettien\source\repos\DSPContest\DSPContest\bin\Debug\DSPContest.exe.config
+c:\users\ngocviettien\source\repos\DSPContest\DSPContest\bin\Debug\DSPContest.exe
+c:\users\ngocviettien\source\repos\DSPContest\DSPContest\bin\Debug\DSPContest.pdb
+c:\users\ngocviettien\source\repos\DSPContest\DSPContest\obj\Debug\DSPContest.csprojResolveAssemblyReference.cache
+c:\users\ngocviettien\source\repos\DSPContest\DSPContest\obj\Debug\DSPContest.MainForm.resources
+c:\users\ngocviettien\source\repos\DSPContest\DSPContest\obj\Debug\DSPContest.Properties.Resources.resources
+c:\users\ngocviettien\source\repos\DSPContest\DSPContest\obj\Debug\DSPContest.SettingForm.resources
+c:\users\ngocviettien\source\repos\DSPContest\DSPContest\obj\Debug\DSPContest.csproj.GenerateResource.Cache
+c:\users\ngocviettien\source\repos\DSPContest\DSPContest\obj\Debug\DSPContest.csproj.CoreCompileInputs.cache
+c:\users\ngocviettien\source\repos\DSPContest\DSPContest\obj\Debug\DSPContest.exe
+c:\users\ngocviettien\source\repos\DSPContest\DSPContest\obj\Debug\DSPContest.pdb
